@@ -9,8 +9,6 @@ try:os.system('mkdir /sdcard/SHIN-DATA/CP')
 except:pass
 try:os.system('mkdir /sdcard/SHIN-DATA/TAP-A2F')
 except:pass
-try:os.system('socks4.txt')
-except:pass
 if __name__ == "__main__":
         try:
                 __import__("Xyz").login()
